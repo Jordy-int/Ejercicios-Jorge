@@ -1,0 +1,27 @@
+#ContenedorEnlaces a{
+    display: list-item;
+}
+
+.Enlace1{
+    list-style: none;
+    margin: 3em 5em;
+    color: red;
+    width: 5em;
+}
+
+.Enlace1:hover{
+    color: white;
+    background-color: red;
+}
+
+.Enlace2{
+    list-style: none;
+    margin: 3em 5em;
+    color: red;
+    width: 5em;
+}
+
+.Enlace2:hover{
+    color: white;
+    background-color: red;
+}
